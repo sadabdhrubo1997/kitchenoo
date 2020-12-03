@@ -104,6 +104,12 @@ html {
 
 #header .main .menu .nav ul li:hover a {
   color: #FC7A40;
+  font-weight: 700;
+}
+
+#header .main .menu .nav ul li.active a {
+  color: #FC7A40;
+  font-weight: 700;
 }
 
 #header .main .menu .cta_btn {

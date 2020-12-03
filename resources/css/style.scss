@@ -96,7 +96,15 @@ html {
                         &:hover {
                             a {
                                 color: #FC7A40;
+                                font-weight: 700;
                             }
+                        }
+                    }
+
+                    li.active{
+                        a {
+                            color: #FC7A40;
+                            font-weight: 700;
                         }
                     }
                 }
